@@ -1,2 +1,3 @@
-# helloworld
-Embedded Systems 2 Git Tutorial
+Jeffrey Novotny
+Xilinx Zynq ARM Cortex-9
+Pepperoni
